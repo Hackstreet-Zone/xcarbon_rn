@@ -4,4 +4,4 @@
 Run ```npm install```
 
 ## Run the app
-Run ```npm expo start```
+Run ```npx expo start```
